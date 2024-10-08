@@ -1,2 +1,4 @@
 # AgriML-Hackathon
-Hackathon Hack4Earth
+
+1. Frontend
+2. Backend

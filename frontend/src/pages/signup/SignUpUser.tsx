@@ -1,10 +1,10 @@
-import img1 from "../../assets/img/img1.jpg"
-import { Link } from "react-router-dom"
+import img1 from "../../assets/img/img1.jpg";
+import { Link } from "react-router-dom";
 
 export default function SignUpUser() {
   return (
     <section className="relative flex flex-wrap lg:h-screen lg:items-center">
-           <div className="relative h-64 w-full sm:h-96 lg:h-full lg:w-1/2">
+      <div className="relative h-64 w-full sm:h-96 lg:h-full lg:w-1/2">
         <img
           alt="Farm image"
           src={img1}
@@ -17,7 +17,9 @@ export default function SignUpUser() {
           <h1 className="text-2xl font-bold sm:text-3xl">Créez votre compte</h1>
 
           <p className="mt-4 text-gray-500">
-            AgriML vous aide à analyser et optimiser votre consommation des ressources d'agriculture et vous propose les meilleurs recommandations.
+            AgriML vous aide à analyser et optimiser votre consommation des
+            ressources d'agriculture et vous propose les meilleurs
+            recommandations.
           </p>
         </div>
 
@@ -30,7 +32,7 @@ export default function SignUpUser() {
             <div className="relative">
               <input
                 type="email"
-                className="w-full rounded-lg border-gray-200 p-4 pe-12 text-sm shadow-sm"
+                className="w-full rounded-lg border-gray-200 p-4 pe-12 text-sm shadow-md outline-green-600"
                 placeholder="Votre adresse email"
               />
 
@@ -61,7 +63,7 @@ export default function SignUpUser() {
             <div className="relative">
               <input
                 type="tel"
-                className="w-full rounded-lg border-gray-200 p-4 pe-12 text-sm shadow-sm"
+                className="w-full rounded-lg border-gray-200 p-4 pe-12 text-sm shadow-md outline-green-600"
                 placeholder="Numero de telephone"
               />
 
@@ -82,7 +84,6 @@ export default function SignUpUser() {
                 </svg>
               </span>
             </div>
-
           </div>
 
           <div>
@@ -93,7 +94,7 @@ export default function SignUpUser() {
             <div className="relative">
               <input
                 type="password"
-                className="w-full rounded-lg border-gray-200 p-4 pe-12 text-sm shadow-sm"
+                className="w-full rounded-lg border-gray-200 p-4 pe-12 text-sm shadow-md outline-green-600"
                 placeholder="Votre mot de passe"
               />
 
@@ -130,7 +131,7 @@ export default function SignUpUser() {
             <div className="relative">
               <input
                 type="password"
-                className="w-full rounded-lg border-gray-200 p-4 pe-12 text-sm shadow-sm"
+                className="w-full rounded-lg border-gray-200 p-4 pe-12 text-sm shadow-md outline-green-600"
                 placeholder="Confirmez votre mot de passe"
               />
 
@@ -160,7 +161,7 @@ export default function SignUpUser() {
           </div>
 
           <div className="flex items-center justify-between">
-          <p className="text-sm text-gray-500">
+            <p className="text-sm text-gray-500">
               Vous avez déja un compte ?
               <Link to={"/"} className="underline">
                 Se connecter
@@ -175,8 +176,6 @@ export default function SignUpUser() {
           </div>
         </form>
       </div>
-
-   
     </section>
-  )
+  );
 }

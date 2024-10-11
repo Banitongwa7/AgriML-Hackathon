@@ -1,4 +1,4 @@
-import img1 from "../../assets/img/img1.jpg"
+import img1 from "../../assets/img/img1.jpg";
 import { Link } from "react-router-dom";
 
 export default function SignInUser() {
@@ -6,10 +6,14 @@ export default function SignInUser() {
     <section className="relative flex flex-wrap lg:h-screen lg:items-center">
       <div className="w-full px-4 py-12 sm:px-6 sm:py-16 lg:w-1/2 lg:px-8 lg:py-24">
         <div className="mx-auto max-w-lg text-center">
-          <h1 className="text-2xl font-bold sm:text-3xl">Commencez dès aujourd'hui !</h1>
+          <h1 className="text-2xl font-bold sm:text-3xl">
+            Commencez dès aujourd'hui !
+          </h1>
 
           <p className="mt-4 text-gray-500">
-            AgriML vous aide à analyser et optimiser votre consommation des ressources d'agriculture et vous propose les meilleurs recommandations.
+            AgriML vous aide à analyser et optimiser votre consommation des
+            ressources d'agriculture et vous propose les meilleurs
+            recommandations.
           </p>
         </div>
 

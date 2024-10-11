@@ -1,4 +1,5 @@
 import img1 from "../../assets/img/img1.jpg"
+import { Link } from "react-router-dom";
 
 export default function SignInUser() {
   return (
@@ -21,7 +22,7 @@ export default function SignInUser() {
             <div className="relative">
               <input
                 type="email"
-                className="w-full rounded-lg border-gray-200 p-4 pe-12 text-sm shadow-sm"
+                className="w-full rounded-lg border-gray-200 p-4 pe-12 text-sm shadow-md outline-green-600"
                 placeholder="Votre adresse email"
               />
 
@@ -52,7 +53,7 @@ export default function SignInUser() {
             <div className="relative">
               <input
                 type="password"
-                className="w-full rounded-lg border-gray-200 p-4 pe-12 text-sm shadow-sm"
+                className="w-full rounded-lg border-gray-200 p-4 pe-12 text-sm shadow-md outline-green-600"
                 placeholder="Votre mot de passe"
               />
 
@@ -84,14 +85,14 @@ export default function SignInUser() {
           <div className="flex items-center justify-between">
             <p className="text-sm text-gray-500">
               Pas encore de compte ?
-              <a className="underline" href="#">
+              <Link to={"/signup"} className="underline">
                 S'enregistrer
-              </a>
+              </Link>
             </p>
 
             <button
               type="submit"
-              className="inline-block rounded-lg bg-blue-500 px-5 py-3 text-sm font-medium text-white"
+              className="inline-block rounded-lg bg-green-500 px-5 py-3 text-sm font-medium text-white hover:bg-green-600 focus:outline-none focus:ring"
             >
               Se connecter
             </button>

@@ -54,9 +54,3 @@ An application for resource analysis and management in agriculture. For instance
 #### Profile
 - Option to edit profile settings and preferences.
 
-## Team members
-
-| GitHub                                                 | Full name                                    
-| :----------------------------------------------------- | :----------------------------------------- 
-| @[Banitongwa7](https://github.com/Banitongwa7)               | David BANITONGWA       
-

@@ -40,12 +40,13 @@
 
 AgriML Software
 
-An application for resource analysis and management in agriculture. For instance, it can monitor water usage and other essential resources. The application provides recommendations to optimize agricultural practices and offers predictions to enhance farming outcomes.
+An application for resource analysis and management in agriculture. For instance, it can monitor water usage and other essential resources through data from IoT devices. The application provides recommendations to optimize agricultural practices and offers predictions to improve farming outcomes without consuming too many resources.
 
 ### Main goal
 
-- To optimize resource utilization and enhance data analysis in agriculture.
-- To provide recommendations to optimize agricultural practices and enhance farming outcomes.
+- To optimize resource utilization and enhance data analysis in agriculture ;
+- To provide recommendations to optimize agricultural practices and enhance farming outcomes ;
+- Track resource consumption using IoT devices (water, etc.).
 
 ### Some pages
 
@@ -56,15 +57,27 @@ An application for resource analysis and management in agriculture. For instance
 
 #### Home Screen
 
+- Main screen with navigation options.
+- Navigation options:
+  - Home
+  - Activity
+  - Recommendation
+  - Profile
+- Dashboard with graphs and charts.
 
 #### Activity Screen
 
+- List of activities and their details.
+- Add new activity.
+- Delete an activity.
+- Edit an activity
+- View an activity.
 
 #### Recommendation Screen
 
-
-#### Analytics Screen
-
+- Recommendations for improvements in resource management.
+- Recommendations for improvements in farming practices.
+- Recommendations for improvements in environmental monitoring.
 
 #### Profile
 - Option to edit profile settings and preferences.

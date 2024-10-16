@@ -1,4 +1,11 @@
-# AgriML Software
+
+<h1 align="center">
+  <br>
+  <a href="#"><img src="./readme/logo2.png" alt="AgriML" width="500"></a>
+  <br>
+  AgriML Software
+  <br>
+</h1>
 
 A tool designed to optimize resource utilization and enhance data analysis in agriculture.
 
@@ -25,10 +32,6 @@ An application for resource analysis and management in agriculture. For instance
 - To optimize resource utilization and enhance data analysis in agriculture.
 - To provide recommendations to optimize agricultural practices and enhance farming outcomes.
 
-### Alt. goal
-
-- To connect users with potential customers.
-
 ### Some pages
 
 #### Onboarding
@@ -40,9 +43,6 @@ An application for resource analysis and management in agriculture. For instance
 
 
 #### Activity Screen
-
-
-#### Sales Screen
 
 
 #### Recommendation Screen

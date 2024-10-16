@@ -69,3 +69,13 @@ An application for resource analysis and management in agriculture. For instance
 #### Profile
 - Option to edit profile settings and preferences.
 
+
+## Team members
+| GitHub                                                 | Full name
+| :----------------------------------------------------- | :-----------------------------------------
+| @[Banitongwa7](https://github.com/Banitongwa7)         | David BANITONGWA
+| @[jas21111](https://github.com/jas21111)               | Ben Taher YASMINE
+| @[pasco1284](https://github.com/pasco1284)             | Louey SAADAOUI
+| @[Aziiz1002](https://github.com/Aziiz1002)             | Aziz
+| @[King6Lyon](https://github.com/King6Lyon)             | Moctar
+

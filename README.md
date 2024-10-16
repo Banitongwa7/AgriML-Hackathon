@@ -7,7 +7,22 @@
   <br>
 </h1>
 
-A tool designed to optimize resource utilization and enhance data analysis in agriculture.
+<h4 align="center">A tool designed to optimize resource utilization and enhance data analysis in agriculture.</h4>
+
+<p align="center">
+  <img alt="python badge" src="https://img.shields.io/badge/python-2C2F33?logo=python">
+  <img alt="github badge" src="https://img.shields.io/badge/github-000000?logo=github">
+  <img alt="ReactJS badge" src="https://img.shields.io/badge/React-20232A?logo=react">
+  <img alt="PostgreSQL badge" src="https://img.shields.io/badge/PostgreSQL-2C2F33?logo=postgresql">
+    <img alt="vite badge" src="https://img.shields.io/badge/vite-2C2F33?logo=vite">
+    <img alt="pnpm badge" src="https://img.shields.io/badge/pnpm-2C2F33?logo=pnpm">
+    <img alt="node badge" src="https://img.shields.io/badge/node.js-2C2F33?logo=node.js">
+    <img alt="npm badge" src="https://img.shields.io/badge/npm-2C2F33?logo=npm">
+    <img alt="git badge" src="https://img.shields.io/badge/git-2C2F33?logo=git">
+    <img alt="fastapi badge" src="https://img.shields.io/badge/fastapi-2C2F33?logo=fastapi">
+</p>
+
+
 
 ## Context
 

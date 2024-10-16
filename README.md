@@ -77,5 +77,5 @@ An application for resource analysis and management in agriculture. For instance
 | @[jas21111](https://github.com/jas21111)               | Ben Taher YASMINE
 | @[pasco1284](https://github.com/pasco1284)             | Louey SAADAOUI
 | @[Aziiz1002](https://github.com/Aziiz1002)             | Aziz
-| @[King6Lyon](https://github.com/King6Lyon)             | Moctar
+| @[King6Lyon](https://github.com/King6Lyon)             | Mahamadou Awal Ahmad MOCTAR
 

@@ -1,7 +1,7 @@
 
 <h1 align="center">
   <br>
-  <a href="#"><img src="./readme/logo2.png" alt="AgriML" width="500"></a>
+  <a href="#"><img src="./readme/logo2.png" alt="AgriML" width="500" height="500"></a>
   <br>
   AgriML Software
   <br>
